@@ -1,0 +1,16 @@
+{
+  "name": "xarajatlar-telegram-bot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "netlify dev"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0",
+    "@netlify/functions": "^3.0.0"
+  },
+  "devDependencies": {
+    "netlify-cli": "^23.0.0"
+  }
+}
